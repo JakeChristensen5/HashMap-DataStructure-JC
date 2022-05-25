@@ -1,10 +1,3 @@
-// --== CS400 Project One File Header ==--
-// Name: Jacob (Jake) Christensen
-// CSL Username: jakec
-// Email: jrchristens2@wisc.edu
-// Lecture #: 004 @4:00pm
-// Notes to Grader:
-
 import com.sun.jdi.Value;
 
 /**
